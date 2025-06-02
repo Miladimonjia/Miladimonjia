@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Bonjour ! Je suis Miladimonjia
 
-<!--
-**Miladimonjia/Miladimonjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon profil GitHub ! Je suis une débutante passionnée par l’analyse de données et je découvre petit à petit les outils du monde de la data science.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Ce que j’apprends actuellement
+
+- Python 🐍 pour manipuler des données
+- Pandas pour l’analyse de tableaux de données
+- Matplotlib pour créer des graphiques
+- Jupyter Notebook & VS Code pour coder facilement
+- GitHub pour partager mes projets
+
+---
+
+## 📊 Projets récents
+
+- [🔗 Analyse de ventes (Sales Analysis)](https://github.com/Miladimonjia/sales-analysis)  
+  → Projet d’analyse de données simples avec pandas et matplotlib
+
+---
+
+## 🎯 Mon objectif
+
+> Acquérir de l'expérience en manipulation de données, visualisation et nettoyage de jeux de données, et me préparer à devenir analyste de données junior.
+
+---
+
+## 📫 Me contacter
+
+- ✉️ Email : *(miladimonjia6@gmail.com)*
+
+
+---
+
+Merci de visiter mon profil !
+
